@@ -1,0 +1,17 @@
+sentence-transformers==2.2.2
+transformers==4.36.2
+huggingface-hub==0.20.3
+chromadb==0.4.22
+pandas==2.1.4
+numpy
+scipy
+pdf2image
+pytesseract
+PyMuPDF
+nltk
+spacy
+pydantic 
+langchain 
+langchain-community 
+langchain-core 
+langchain-openai
